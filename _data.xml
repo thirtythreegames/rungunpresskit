@@ -2,23 +2,22 @@
 <!-- example file containing base tags -->
 
 <game>	
-	<title>Company Name</title>
-	<founding-date>September 1, 2010</founding-date>
-	<website>http://www.website.com/</website>
-	<based-in>Cityville, Metropolisland</based-in>
+	<title>ThirtyThree Games Ltd.</title>
+	<founding-date>January 1, 2015</founding-date>
+	<website>http://www.thirtythreegames.com</website>
+	<based-in>Edmonton, Alberta</based-in>
 	
-	<press-contact>press-contact@company.com</press-contact>
+	<press-contact>jordan@thirtythreegames.com</press-contact>
 	<phone>+00 (1) 22 33 44 55 66</phone>
 	<address>
-		<line>Address Line 1</line>
-		<line>Address Line 2</line>
-		<line>Address Line 3</line>
+		<line>10359 104 St NW</line>
+		<line>Edmonton, AB  T5J 1B9</line>
 	</address>
 
 	<socials>
 		<social>
-			<name>twitter.com/MyCompanyName</name>
-			<link>twitter.com/MyCompanyName</link>
+			<name>@ThirtyThreeGame</name>
+			<link>https://twitter.com/thirtythreegame</link>
 		</social>
 		<social>
 			<name>facebook.com/MyCompanyName</name>
