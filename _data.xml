@@ -8,7 +8,7 @@
 	<based-in>Edmonton, Alberta</based-in>
 	
 	<press-contact>jordan@thirtythreegames.com</press-contact>
-	<phone>+00 (1) 22 33 44 55 66</phone>
+	<phone>+01 (780) 240-1882</phone>
 	<address>
 		<line>10359 104 St NW</line>
 		<line>Edmonton, AB  T5J 1B9</line>
@@ -25,7 +25,7 @@
 		</social>
 		<social>
 			<name>Skype</name>
-			<link>callto:MySkypeName</link>
+			<link>callto:jordan.bloemen</link>
 		</social>
 	</socials>
 
@@ -46,13 +46,12 @@
 		
 	<trailers>
 		<trailer>
-			<name>This video is nice</name>
-			<youtube>7jQbITg0MSk</youtube>
+			<name>Steam Greenlight Trailer</name>
+			<youtube>53PjRtfr_xY</youtube>
 		</trailer>
 		<trailer>
-			<name>This one too</name>
-			<youtube>0CevOaYrYDA</youtube>
-			<vimeo>12536488</vimeo>
+			<name>Early Gameplay Video</name>
+			<youtube>4agvAM0CGf8</youtube>
 		</trailer>
 	</trailers>
 	
