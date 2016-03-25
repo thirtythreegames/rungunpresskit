@@ -20,30 +20,30 @@
 			<link>https://twitter.com/thirtythreegame</link>
 		</social>
 		<social>
-			<name>facebook.com/MyCompanyName</name>
-			<link>facebook.com/MyCompanyName</link>
-		</social>
-		<social>
 			<name>Skype</name>
 			<link>callto:jordan.bloemen</link>
 		</social>
 	</socials>
 
 	<description>	
-		We're games studio and we make games. We're also capable of editing XML files.
+RUNGUNJUMPGUN is a retro-style 2D automatic-runner with two-button controls. One button let’s you fly, the other blasts your obstacles into heaps of rubble. There is no stopping in RUNGUNJUMPGUN’s surreal fantasy-sci-fi world. There is only running, gunning, and jumping.
 	</description>
 		
 	<histories>
 		<history>
-			<header>Early history</header>
-			<text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel nisi dolor. Pellentesque vitae eros velit, quis venenatis orci. Phasellus elit urna, semper ut gravida et, porta non dui. Aliquam erat volutpat. Aenean porta volutpat imperdiet. Maecenas venenatis, tellus eget vehicula vulputate, augue erat elementum quam, tincidunt laoreet magna orci et mauris. Proin porttitor pharetra nisi, accumsan sollicitudin neque varius a. Aenean ut massa ipsum, id hendrerit lacus. Maecenas posuere egestas nunc at cursus. Etiam mollis libero vel eros pulvinar aliquam. Sed vitae turpis sed nibh venenatis dictum. Sed suscipit orci justo, at sagittis ante. Sed leo nisl, ultricies in fermentum id, aliquam id dolor. Ut laoreet, felis id posuere bibendum, arcu ipsum lacinia est, eu lobortis velit enim eget mi. In ullamcorper ullamcorper enim ut gravida. Vivamus rutrum lacus mollis risus malesuada iaculis.</text>
-		</history>
-		<history>
-			<header>After that</header>
-			<text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sem dui, volutpat eu adipiscing sed, rutrum aliquam lacus. Proin sollicitudin consequat dolor id dignissim. Aliquam sem turpis, sagittis lobortis viverra eget, varius vitae nunc. Proin ac lacus porttitor dui sollicitudin elementum. Nulla ut hendrerit est. Fusce vitae arcu erat, vel molestie est. Proin et placerat justo. Proin placerat arcu massa, eu blandit leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam eu lorem sed massa lobortis hendrerit vitae vel odio. Maecenas eget pulvinar tortor. Nunc vitae nisl ac odio bibendum luctus ac a leo. Suspendisse auctor elit et velit sagittis vehicula. Maecenas faucibus blandit rutrum. Duis et sem nibh. Vestibulum placerat elit et dui rhoncus accumsan.</text>
+			<header>History</header>
+			<text>The team behind RUNGUNJUMPGUN met as employees at a marketing company in Alberta, Canada. When Matthew and Logan (artist and programmer on the project) quit in late 2014, they planned to create a small video game as a farewell card to their colleagues. Jordan joined shortly after to compose music and act as writer for the project as the scope of RunGunJumpGun expanded into a full title. RunGunJumpGun was Greenlit for distribution on the Steam Marketplace in December 2015.</text>
 		</history>
 	</histories>
-		
+		<features>
+<feature>Merciful respawns let you die with efficiency and keep you in the game.</feature>
+<feature>Meticulously crafted levels, created by the shrewdest level-artisans, designed to hone and test player’s speed and tenacity.</feature>
+<feature>Single-hand gameplay appropriate for players with disabilities.</feature>
+<feature>Tripped-out hyper-colourful fantasy-sci-fi art style</feature>
+<feature>Pulsing musical score blending hip hop, electronic and movie-score vibes.</feature>
+<feature>Warped space-opera narrative and a cast of crazed, beautifully illustrated characters.</feature>
+<feature>The quest to collect “Atomiks” littered throughout levels lends an extra level of insanity to already merciless level design. A gift to self-hating completionists.</feature>
+</features>
 	<trailers>
 		<trailer>
 			<name>Steam Greenlight Trailer</name>
@@ -55,50 +55,26 @@
 		</trailer>
 	</trailers>
 	
-	<awards>
-		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
-		</award>
-		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
-		</award>
-		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
-		</award>
-		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
-		</award>
-	</awards>
-	
 	<quotes>
 		<quote>
-			<description>This is a rather insignificant quote by a highly important person.</description>
-			<name>Person Name</name>
-			<website>Website</website>
-			<link>http://www.website.com/</link>
+			<description>Pulsing stages filled with brilliant color, screen-shaking gunfire, and pounding sound.</description>
+			<name>Joel Couture</name>
+			<website>IndieGames.com</website>
+			<link>http://indiegames.com/2015/12/bathe_in_the_intensity_of_rung.html</link>
 		</quote>
 		<quote>
-			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
-			<name>Some Guy</name>
-			<website>This Page Is Visited By 12 Visitors A Month</website>
-			<link>http://geocities.blog.com/</link>
+			<description>Looks to be absolutely brutal. And colorful too. You can't ignore those vibrant colors.</description>
+			<name>Chris Priestman</name>
+			<website>Siliconera.com</website>
+			<link>http://www.siliconera.com/2015/12/11/rungunjumpgun-aims-to-push-your-run-n-gun-skills-to-the-limit/</link>
 		</quote>
 		<quote>
-			<description>I pretend to love this game even though I do not actually understand it.</description>
-			<name>Pretentious Bastard</name>
-			<website>Artsy Page</website>
-			<link>http://art.tumblr.com/</link>
+			<description>TheGG.Net</description>
+			<name>Robin Ek</name>
+			<website>TheGG.Net</website>
+			<link>http://thegg.net/indie-games/thirtythree-games-super-intense-action-game-rungunjumpgun-is-set-for-an-early-2016-release/</link>
 		</quote>
-		<quote>
-			<description>HOLY SHIT SO AMAZING</description>
-			<name>Caps Guy</name>
-			<website>Angry Review</website>
-			<link>http://thispage.net/angrytube</link>
-		</quote>
+		
 	</quotes>
 	
 	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
@@ -108,45 +84,42 @@
 																			 	monetize (full permission) -->	
 	<additionals>
 		<additional>
-			<title>Company Link #1</title>
-			<description>This link is a link that might be useful. You can check it out at</description>
-			<link>http://somemusicsite.com/thislink</link>
+			<title>Steam Greenlight</title>
+			<link>https://steamcommunity.com/sharedfiles/filedetails/?id=559207299</link>
+		</additional>
+		<additional>
+			<title>Soundtrack</title>
+			<link>https://soundcloud.com/rockliffandcompany/sets/rungunjumpgun-soundtrack-sampler</link>
 		</additional>
 	</additionals>
 	
 	<credits>
 		<credit>
-			<person>John Doe</person>
-			<role>Artist, Freelancer</role>
+		  <person>Logan Gilmour</person>
+			<role>Programmer</role>
 		</credit>
 		<credit>
-			<person>Oliver Twist</person>
-			<website>www.olivertwist.com</website>
-			<role>Artist, Freelancer</role>
+			<person>Matthew Satchwill</person>
+			<role>Art and animation</role>
 		</credit>
 		<credit>
-			<person>Jane Doette</person>
-			<website>www.olivertwist.com</website>
-			<role>Music, Freelancer</role>
+			<person>Jordan Bloemen</person>
+			<role>Music and story</role>
 		</credit>
 	</credits>
 	
 	<contacts>
 		<contact>
 			<name>Inquiries</name>
-			<mail>rami@vlambeer.com</mail>
+			<mail>jordan@thirtythreegames.com</mail>
 		</contact>
 		<contact>
 			<name>Twitter</name>
-			<link>http://twitter.com/MyCompanyName</link>
-		</contact>
-		<contact>
-			<name>Facebook</name>
-			<link>http://facebook.com/MyCompanyName</link>
+			<link>http://twitter.com/thirtythreegame</link>
 		</contact>
 		<contact>
 			<name>Web</name>
-			<link>MyCompanyWebsite.com</link>
+			<link>rungunjumpgun.com</link>
 		</contact>
 	</contacts>
 </game>
