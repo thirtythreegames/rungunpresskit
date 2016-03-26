@@ -21,7 +21,8 @@ RUNGUNJUMPGUN is a retro-style 2D automatic-runner with two-button controls. One
 The team behind RUNGUNJUMPGUN met as co-workers at a marketing company in Alberta, Canada. When Matthew and Logan (artist and programmer) left the company in late 2014, they planned to create a small video game as a farewell card to their colleagues; something cute with everyone’s face in it and lots of heartwarming inside jokes. Jordan joined shortly after to compose music and act as writer for the project as the scope of RunGunJumpGun expanded into a full title (a full title in desperate need of sweltering hot jams and a story for the ages). The trio worked out of their local library's makerspace for the summer, before moving into a co-working space based out of an old whiskey storage warehouse near the end of the year. RunGunJumpGun was Greenlit for distribution on the Steam Marketplace in December 2015. 
 	</history>
 		<features>
-<feature>Merciful respawns let you die with efficiency and keep you in the game.</feature>
+<feature>Merciful respa
+wns let you die with efficiency and keep you in the game.</feature>
 <feature>Meticulously crafted levels, created by the shrewdest level-artisans, designed to hone and test player’s speed and tenacity.</feature>
 <feature>Single-hand gameplay appropriate for players with disabilities.</feature>
 <feature>Tripped-out hyper-colourful fantasy-sci-fi art style</feature>
@@ -29,37 +30,6 @@ The team behind RUNGUNJUMPGUN met as co-workers at a marketing company in Albert
 <feature>Warped space-opera narrative and a cast of crazed, beautifully illustrated characters.</feature>
 <feature>The quest to collect “Atomiks” littered throughout levels lends an extra level of insanity to already merciless level design. A gift to self-hating completionists.</feature>
 </features>	
-	<trailers>
-		<trailer>
-			<name>Trailer</name>
-			<youtube>7jQbITg0MSk</youtube>
-			<vimeo>23571681</vimeo>
-		</trailer>
-		<trailer>
-			<name>Gameplay Video</name>
-			<youtube>7jQbITg0MSk</youtube>
-			<vimeo>23571681</vimeo>
-		</trailer>
-	</trailers>
-	
-	<awards>
-		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
-		</award>
-		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
-		</award>
-		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
-		</award>
-		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
-		</award>
-	</awards>
 	
 	
 	<quotes>
@@ -83,6 +53,17 @@ The team behind RUNGUNJUMPGUN met as co-workers at a marketing company in Albert
 		</quote>
 		
 	</quotes>
+
+	<trailers>
+		<trailer>
+			<name>Steam Greenlight Trailer</name>
+			<youtube>53PjRtfr_xY</youtube>
+		</trailer>
+		<trailer>
+			<name>Early Gameplay Video</name>
+			<youtube>4agvAM0CGf8</youtube>
+		</trailer>
+	</trailers>
 
 																	 	monetize (full permission) -->	
 	<additionals>
