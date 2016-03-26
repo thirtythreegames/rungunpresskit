@@ -47,43 +47,9 @@ RUNGUNJUMPGUN is a retro-style 2D automatic-runner with two-button controls. One
 		</trailer>
 	</trailers>
 	
-	<quotes>
-		<quote>
-			<description>Pulsing stages filled with brilliant color, screen-shaking gunfire, and pounding sound.</description>
-			<name>Joel Couture</name>
-			<website>IndieGames.com</website>
-			<link>http://indiegames.com/2015/12/bathe_in_the_intensity_of_rung.html</link>
-		</quote>
-		<quote>
-			<description>Looks to be absolutely brutal. And colorful too. You can't ignore those vibrant colors.</description>
-			<name>Chris Priestman</name>
-			<website>Siliconera.com</website>
-			<link>http://www.siliconera.com/2015/12/11/rungunjumpgun-aims-to-push-your-run-n-gun-skills-to-the-limit/</link>
-		</quote>
-		<quote>
-			<description>TheGG.Net</description>
-			<name>Robin Ek</name>
-			<website>TheGG.Net</website>
-			<link>http://thegg.net/indie-games/thirtythree-games-super-intense-action-game-rungunjumpgun-is-set-for-an-early-2016-release/</link>
-		</quote>
-		
-	</quotes>
-	
 	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
 	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
 																			 	ask (permission on case-per-case basis),
-																			 	non-commercial (no monetization allowed),
-																			 	monetize (full permission) -->	
-	<additionals>
-		<additional>
-			<title>Steam Greenlight</title>
-			<link>https://steamcommunity.com/sharedfiles/filedetails/?id=559207299</link>
-		</additional>
-		<additional>
-			<title>Soundtrack</title>
-			<link>https://soundcloud.com/rockliffandcompany/sets/rungunjumpgun-soundtrack-sampler</link>
-		</additional>
-	</additionals>
 	
 	<credits>
 		<credit>
