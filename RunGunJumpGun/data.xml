@@ -1,61 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <game>
-	<title>Game Name</title>
+	<title>RunGunJumpGun</title>
 	<release-date>1 May, 2012</release-date>
-	<website>http://www.gamesite.com/</website>
+	<website>http://thirtythreegames.com</website>
 	<press-can-request-copy>TRUE</press-can-request-copy>
 
 	<platforms>
 		<platform>
-			<name>PC / Mac</name>
-			<link>http://www.gamesite.com/</link>
-		</platform>
-		<platform>
 			<name>Steam</name>
-			<link>http://www.steampowered.com/</link>
-		</platform>
-		<platform>
-			<name>Apple App Store</name>
-			<link>http://www.itunes.com/</link>
+			<link>https://steamcommunity.com/sharedfiles/filedetails/?id=559207299</link>
 		</platform>
 	</platforms>
 	
-	<prices>
-		<price>
-			<currency>USD</currency>
-			<value>$1.99</value>
-		</price>
-		<price>
-			<currency>EUR</currency>
-			<value>€1.59</value>
-		</price>
-		<price>
-			<currency>CAD</currency>
-			<value>$1.99</value>
-		</price>				
-		<price>
-			<currency>GBP</currency>
-			<value>£1.29</value>
-		</price>
-	</prices>
-
 	<description>
-	Hello. This is a short compilation of facts about the game. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-	</description>
+RUNGUNJUMPGUN is a retro-style 2D automatic-runner with two-button controls. One button let’s you fly, the other blasts your obstacles into heaps of rubble. There is no stopping in RUNGUNJUMPGUN’s surreal fantasy-sci-fi world. There is only running, gunning, jumping, and gunning.	
+</description>
 	
 	<history>
-	Since we're an indie developer, we want a history to our game. This paragraph will explain this history in short. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The team behind RUNGUNJUMPGUN met as co-workers at a marketing company in Alberta, Canada. When Matthew and Logan (artist and programmer) left the company in late 2014, they planned to create a small video game as a farewell card to their colleagues; something cute with everyone’s face in it and lots of heartwarming inside jokes. Jordan joined shortly after to compose music and act as writer for the project as the scope of RunGunJumpGun expanded into a full title (a full title in desperate need of sweltering hot jams and a story for the ages). The trio worked out of their local library's makerspace for the summer, before moving into a co-working space based out of an old whiskey storage warehouse near the end of the year. RunGunJumpGun was Greenlit for distribution on the Steam Marketplace in December 2015. 
 	</history>
-
-	<features>
-		<feature>Includes something really interesting about the game which players will love.</feature>
-		<feature>This feature line is about the 8-bit pixels that are no doubt featuring in this game.</feature>
-		<feature>Since it is unlikely that the audio isn't fucking amazing, say something about the audio, maybe?</feature>
-		<feature>Make sure to stress that everything about this game is absolutely fabulous.</feature>
-		<feature>Something to wrap up this 5-point feature list with a nice ring to it.</feature>
-	</features>
-	
+		<features>
+<feature>Merciful respawns let you die with efficiency and keep you in the game.</feature>
+<feature>Meticulously crafted levels, created by the shrewdest level-artisans, designed to hone and test player’s speed and tenacity.</feature>
+<feature>Single-hand gameplay appropriate for players with disabilities.</feature>
+<feature>Tripped-out hyper-colourful fantasy-sci-fi art style</feature>
+<feature>Pulsing musical score blending hip hop, electronic and movie-score vibes.</feature>
+<feature>Warped space-opera narrative and a cast of crazed, beautifully illustrated characters.</feature>
+<feature>The quest to collect “Atomiks” littered throughout levels lends an extra level of insanity to already merciless level design. A gift to self-hating completionists.</feature>
+</features>	
 	<trailers>
 		<trailer>
 			<name>Trailer</name>
@@ -88,68 +61,56 @@
 		</award>
 	</awards>
 	
+	
 	<quotes>
 		<quote>
-			<description>This is a rather insignificant quote by a highly important person.</description>
-			<name>Person Name</name>
-			<website>Website</website>
-			<link>http://</link>
+			<description>Pulsing stages filled with brilliant color, screen-shaking gunfire, and pounding sound.</description>
+			<name>Joel Couture</name>
+			<website>IndieGames.com</website>
+			<link>http://indiegames.com/2015/12/bathe_in_the_intensity_of_rung.html</link>
 		</quote>
 		<quote>
-			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
-			<name>Some Guy</name>
-			<website>This Page Is Visited By 12 Visitors A Month</website>
-			<link>http://</link>
+			<description>Looks to be absolutely brutal. And colorful too. You can't ignore those vibrant colors.</description>
+			<name>Chris Priestman</name>
+			<website>Siliconera.com</website>
+			<link>http://www.siliconera.com/2015/12/11/rungunjumpgun-aims-to-push-your-run-n-gun-skills-to-the-limit/</link>
 		</quote>
 		<quote>
-			<description>I pretend to love this game even though I do not actually understand it.</description>
-			<name>Pretentious Bastard</name>
-			<website>Artsy Page</website>
-			<link>http://</link>
+			<description>TheGG.Net</description>
+			<name>Robin Ek</name>
+			<website>TheGG.Net</website>
+			<link>http://thegg.net/indie-games/thirtythree-games-super-intense-action-game-rungunjumpgun-is-set-for-an-early-2016-release/</link>
 		</quote>
-		<quote>
-			<description>HOLY SHIT SO AMAZING</description>
-			<name>Caps Guy</name>
-			<website>Angry Review</website>
-			<link>http://</link>
-		</quote>
+		
 	</quotes>
-	
+
+																	 	monetize (full permission) -->	
 	<additionals>
 		<additional>
-			<title>Original Soundtrack</title>
-			<description>Available for free from</description>
-			<link>http://somemusicsite.com/thislink</link>
+			<title>Steam Greenlight</title>
+			<link>https://steamcommunity.com/sharedfiles/filedetails/?id=559207299</link>
 		</additional>
 		<additional>
-			<title>Release Blog Post</title>
-			<description>The blog-post through which this game was released is available at</description>
-			<link>http://vlambeer.com/bloglink</link>
+			<title>Soundtrack</title>
+			<link>https://soundcloud.com/rockliffandcompany/sets/rungunjumpgun-soundtrack-sampler</link>
 		</additional>
 	</additionals>
 	
+
 	<credits>
 		<credit>
-			<person>Rami Ismail</person>
-			<role>Business &amp; Development, Vlambeer</role>
+		  <person>Logan Gilmour</person>
+			<role>Programmer</role>
 		</credit>
 		<credit>
-			<person>Jan Willem Nijman</person>
-			<role>Game Designer, Vlambeer</role>
+			<person>Matthew Satchwill</person>
+			<role>Art and animation</role>
 		</credit>
 		<credit>
-			<person>John Doe</person>
-			<role>Artist, Freelancer</role>
-		</credit>
-		<credit>
-			<person>Oliver Twist</person>
-			<website>www.olivertwist.com</website>
-			<role>Artist, Freelancer</role>
-		</credit>
-		<credit>
-			<person>Jane Doette</person>
-			<website>www.olivertwist.com</website>
-			<role>Music, Freelancer</role>
+			<person>Jordan Bloemen</person>
+			<role>Music and story</role>
 		</credit>
 	</credits>
+	
+	
 </game>
