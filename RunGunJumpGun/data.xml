@@ -4,6 +4,7 @@
 	<title>RunGunJumpGun</title>
 <release-date>Summer 2016</release-date>
 	<website>http://rungunjumpgun.com</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
 	<prices>
 	  <price>
 	    <currency>USD</currency>
