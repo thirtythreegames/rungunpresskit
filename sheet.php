@@ -870,10 +870,7 @@ echo '					<hr>
 						'. COMPANY_DESCRIPTION .'
 					</p>
 
-					<p>
-						<strong>'. tl('More information'). '</strong><br/>
-						'. tlHtml('More information on %s, our logo & relevant media are available <a href="%s">here</a>.', COMPANY_TITLE, 'index.php'. $languageQuery). '
-					</p>
+
 					
 					<hr>
 
